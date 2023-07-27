@@ -1,0 +1,9 @@
+Anna
+Kowalska
+1
++p
+matametyka
++o
+2.0
+-o
+-p
